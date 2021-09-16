@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer className="">
+        <footer className="pb-2 border w-full flex justify-center">
             <div>
                 <p>India</p>
             </div>
