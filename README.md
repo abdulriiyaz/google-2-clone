@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## A Custom Google Search Engine clone with Google's Custom Search Engine API.
+
+
 ## Getting Started
 
 First, run the development server:
